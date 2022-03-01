@@ -1,4 +1,3 @@
-package dragon;
 import acm.graphics.GTurtle;
 public class Dragon extends GTurtle{
     void Directa(int n){
